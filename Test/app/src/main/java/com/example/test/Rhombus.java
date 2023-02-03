@@ -1,7 +1,8 @@
 package com.example.test;
 
-public class Shape {
+public class Rhombus extends Shape {
     private int x;
     private int y;
-    String color = "yellow";
+    
+    
 }

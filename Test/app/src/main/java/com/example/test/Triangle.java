@@ -1,7 +1,7 @@
 package com.example.test;
 
-public class Shape {
+public class Triangle extends Shape{
     private int x;
     private int y;
-    String color = "yellow";
+    private int z;
 }
